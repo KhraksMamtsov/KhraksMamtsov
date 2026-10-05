@@ -12,5 +12,5 @@ TypeScript · React · Node.js · Effect · fp-ts · PostgreSQL · Redis · Taur
 
 ### Open source
 
-- Contributor to [Effect](https://github.com/Effect-TS/effect)
+- Contributor to [Effect]([https://github.com/Effect-TS/effect](https://github.com/Effect-TS/effect/pulls?q=author%3AKhraksMamtsov)
 - Creator of [effect-zionomicon](https://github.com/KhraksMamtsov/effect-zionomicon) — Zionomicon examples ported to Effect
