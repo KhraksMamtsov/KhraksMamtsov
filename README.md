@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Maksim 👋
 
-<!--
-**KhraksMamtsov/KhraksMamtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Software Engineer working with TypeScript, React, Node.js, and Effect.
 
-Here are some ideas to get you started:
+I build full-stack applications and enjoy working on application architecture, functional programming, real-time systems, and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Effect extensively in production and contribute to the open-source Effect ecosystem.
+
+### Main stack
+
+TypeScript · React · Node.js · Effect · fp-ts · PostgreSQL · Redis · Tauri
+
+### Open source
+
+- Contributor to [Effect](https://github.com/Effect-TS/effect)
+- Creator of [effect-zionomicon](https://github.com/KhraksMamtsov/effect-zionomicon) — Zionomicon examples ported to Effect
